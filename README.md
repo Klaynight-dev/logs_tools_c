@@ -1,10 +1,10 @@
 # logs_tools_c
 
-Ici vous retrouverai une outils de logs utile pour vos applications en C.
+Here you will find a logging tool useful for your C applications.
 
 ## Installation
 
-Pour installer les outils de logs, clonez ce dépôt et compilez les sources :
+To install the logging tools, clone this repository and compile the sources:
 
 ```sh
 git clone https://github.com/Klaynight-dev/logs_tools_c.git
@@ -12,26 +12,25 @@ cd logs_tools_c
 make
 ```
 
-## Utilisation
+## Usage
 
-Voici un exemple de comment utiliser les outils de logs dans votre code C :
+Here is an example of how to use the logging tools in your C code:
 
 ```c
 #include "log_tools.h"
 
 int main() {
-    log_info("Démarrage de l'application");
-    // Votre code ici
-    log_error("Une erreur est survenue");
+    log_info("Starting the application");
+    // Your code here
+    log_error("An error occurred");
     return 0;
 }
 ```
 
-## Contribuer
+## Contributing
 
-Les contributions sont les bienvenues ! Veuillez créer une pull request ou ouvrir une issue pour discuter des modifications que vous souhaitez apporter.
+Contributions are welcome! Please create a pull request or open an issue to discuss the changes you want to make.
 
-## Licence
+## License
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
