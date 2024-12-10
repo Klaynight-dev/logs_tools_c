@@ -1,4 +1,3 @@
-```
 # logs_tools_c
 
 Ici vous retrouverai une outils de logs utile pour vos applications en C.
@@ -35,6 +34,4 @@ Les contributions sont les bienvenues ! Veuillez créer une pull request ou ouvr
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-```
 
-Vous pouvez copier ce contenu et le coller dans un nouveau fichier `README.md` dans votre dépôt.
